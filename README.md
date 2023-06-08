@@ -36,8 +36,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 
-#Projet : gestion des locations privés 
-##Objectif : faire un mini projet pour tester en combien de temps, on peut créer une application web de bonne qualité en réact en utilisant les outils IA pour la productivité
+# Projet : gestion des locations privés 
+## Objectif : faire un mini projet pour tester en combien de temps, on peut créer une application web de bonne qualité en réact en utilisant les outils IA pour la productivité
 
-##La structure de base du projet 
+## La structure de base du projet 
 
